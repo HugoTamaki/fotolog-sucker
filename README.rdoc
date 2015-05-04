@@ -1,0 +1,12 @@
+== Fotolog Sucker
+
+Fotolog sucker is a script to capture all photos from one user of fotolog.
+
+- `run bundle install`
+
+- run the code `ruby fotolog-sucker.rb`
+
+- copy and paste the url of the profile you want to capture
+like that `http://www.fotolog.com.br/username/mosaic/`
+
+- be happy
